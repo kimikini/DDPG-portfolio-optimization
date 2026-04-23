@@ -8,6 +8,8 @@ This project investigates the use of **deep reinforcement learning** for portfol
 
 Traditional dynamic programming methods often become computationally infeasible in large financial markets. To address this, the project applies **DDPG**, an actor-critic reinforcement learning algorithm designed for continuous action spaces. The learned trading strategy is compared with a **mean-variance benchmark solved using Portfolio Safeguard (PSG)** and with a passive **DJIA benchmark**. 
 
+**Contributors:** **Xiaoyan Lin**, **Zhuoqiao Ouyang**
+
 ## Methodology
 
 The project uses a **DDPG actor-critic architecture**:
