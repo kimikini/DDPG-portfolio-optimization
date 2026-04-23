@@ -79,6 +79,8 @@ The empirical results in the report show the following overall patterns:
 
 <img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/f7b50e95-f1d0-43d4-84b9-77b72368d6a1" />
 
+<img width="1000 height="400" alt="image" src="https://github.com/user-attachments/assets/8c083dfc-6ebc-48e4-8121-0858fd36ad22" />
+
 
 
 ## References
